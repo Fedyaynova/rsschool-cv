@@ -1,15 +1,15 @@
-#Natalya Fedyaynova
+#__Natalya Fedyaynova__
 
 
-###Contacts:
+###__Contacts__:
 
 *__e-mail__: n.fedyaynova@yandex.ru
 
 *__github__: @fedyaynova
 
-*__telegram__: Fedyaynova
+*__telegram__: @Fedyaynova
 
-###About:
+###__About__:
 
 
 I have worked in leading publishing houses as a project, pr and sales manager about 10 years.
@@ -17,7 +17,7 @@ I participated in the production of newspapers and magazines,  but it isn’t so
 Front end development is the only form of development that the user will actually see. It’s close for me. 
 That’s why it’s a logical jump into the front end.
 
-###Soft skills:
+###__Soft skills__:
 
 
 *сreativity
@@ -29,7 +29,7 @@ That’s why it’s a logical jump into the front end.
 *critical thinking
 
 
-###Hard Skills:
+###__Hard Skills__:
 
 
 *HTML&CSS
@@ -41,10 +41,10 @@ That’s why it’s a logical jump into the front end.
 *Git
 
 
-###Code Example:
+###__Code Example__:
 
 
-##Education : 
+##__Education__: 
 
 *Lomonosov Moscow State University (faculty of journalism)
 
@@ -53,4 +53,4 @@ That’s why it’s a logical jump into the front end.
 *Course on udemy [https://www.udemy.com/share/101Wy23@gQLXWR9V0MwnpT5KFHi8FlON2ME5Omox6vNxk_vJwa5ruRL58Y5e-MxpnkRVGrhrbg==/] (web-developer)
 
 
-###English A2
+###__English__ A1
