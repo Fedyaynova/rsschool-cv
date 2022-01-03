@@ -1,5 +1,20 @@
-div{
-    width: 400px;
-    height: 400px;
-    color: cadetblue;
+.body {
+  min-height: 100px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+#main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
 }
