@@ -1,25 +1,4 @@
 # rsschool-cv
-Task:https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/cv-stage0.md
-2. Screenshot:
- ![Снимок](https://user-images.githubusercontent.com/96023183/147974646-5db5a875-3045-45a8-be8f-f36f79d1f040.PNG)
-3. Deploy: https://fedyaynova.github.io/rsschool-cv/cv
-4. Done 03.01.2022 / deadline 03.01.2022
-5
-6. Score: 115
-студент засабмитил в rs app ссылку на своё CV, задеплоенное на gh-pages +10
-вёрстка валидная +10
-вёрстка семантическая +20
-header, main, footer +5
-только один заголовок h1 +5
-заголовки h2 +5
-в footer есть ссылка на гитхаб автора работы, год создания приложения, логотип курса со ссылкой на курс +10
-для оформления СV используются css-стили +10
-на странице СV есть фото или аватарка автора, пропорции изображения не искажены, у изображения есть атрибут alt +10
-навигация, контакты для связи и перечень навыков оформлены в виде списка ul > li или ul > li > a +10
-Содержание CV +20
-CV содержит:
-краткую информацию о себе +5
-контакты для связи +5
-перечень навыков +5
-информацию об образовании и уровне английского +5
-CV выполнено на английском языке +10
+
+https://fedyaynova.github.io/rsschool-cv/cv
+https://fedyaynova.github.io/rsschool-cv/
